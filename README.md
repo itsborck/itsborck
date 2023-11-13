@@ -31,5 +31,6 @@ Here are some of my favorite projects:
 
 1. 🌐 [bigcookie.org](https://github.com/itsborck/bigcookie.org)
 2. 🤖 [FalcoTech2023](https://github.com/FalcoTech/FalcoTech2023)
+3. 🏒 [StickTap](https://github.com/itsborck/sticktap)
 
 Feel free to explore and contribute!
